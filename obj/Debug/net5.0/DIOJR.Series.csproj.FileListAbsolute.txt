@@ -1,0 +1,16 @@
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\obj\Debug\net5.0\DIOJR.Series.csprojAssemblyReference.cache
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\obj\Debug\net5.0\DIOJR.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\obj\Debug\net5.0\DIOJR.Series.AssemblyInfoInputs.cache
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\obj\Debug\net5.0\DIOJR.Series.AssemblyInfo.cs
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\obj\Debug\net5.0\DIOJR.Series.csproj.CoreCompileInputs.cache
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\bin\Debug\net5.0\DIOJR.Series.exe
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\bin\Debug\net5.0\DIOJR.Series.deps.json
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\bin\Debug\net5.0\DIOJR.Series.runtimeconfig.json
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\bin\Debug\net5.0\DIOJR.Series.runtimeconfig.dev.json
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\bin\Debug\net5.0\DIOJR.Series.dll
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\bin\Debug\net5.0\ref\DIOJR.Series.dll
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\bin\Debug\net5.0\DIOJR.Series.pdb
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\obj\Debug\net5.0\DIOJR.Series.dll
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\obj\Debug\net5.0\ref\DIOJR.Series.dll
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\obj\Debug\net5.0\DIOJR.Series.pdb
+D:\Juarez\estudo\DIO\C#\DIOJR.Series\obj\Debug\net5.0\DIOJR.Series.genruntimeconfig.cache

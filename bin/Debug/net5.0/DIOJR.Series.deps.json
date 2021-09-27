@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DIOJR.Series/1.0.0": {
+        "runtime": {
+          "DIOJR.Series.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIOJR.Series/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
